@@ -4,7 +4,7 @@ const ButtonComponent = ({buttonName}) => {
 
 
   return (
-    <Button sx={{marginBottom: "10px"}} variant="contained">{buttonName} Details</Button>
+    <Button sx={{marginBottom: "10px"}} variant="contained">{buttonName}</Button>
   )
 }
 
